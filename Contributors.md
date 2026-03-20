@@ -1,5 +1,6 @@
 # Contributors
 hello ji 
+- [hezuoyi070229](https://github.com/hezuoyi070229)
 - [Siddharth S](https://github.com/codeXsidd)
 - [Sahil Hande](https://github.com/sahilcommit)
 - [M. Fajal](https://github.com/Mfaj-cod)
